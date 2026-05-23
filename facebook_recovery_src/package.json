@@ -1,0 +1,19 @@
+{
+  "name": "facebook-account-recovery-helper",
+  "version": "1.0.0",
+  "description": "A tool for Facebook account recovery via brute-force password testing (educational use only)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "license": "MIT"
+}
