@@ -1,0 +1,6 @@
+Selenium.WebDriver==4.8.0
+Selenium.WebDriver.ChromeDriver==111.0.5563.64
+Newtonsoft.Json==13.0.3
+NUnit==3.13.3
+NUnit3TestAdapter==4.4.2
+Microsoft.NET.Test.Sdk==17.5.0
