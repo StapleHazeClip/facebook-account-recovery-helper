@@ -1,0 +1,8 @@
+{
+  "TargetEmail": "victim.email@example.com",
+  "WordlistPath": "wordlist.txt",
+  "DelayMs": 3000,
+  "MaxAttempts": 50,
+  "ChromeDriverPath": "chromedriver",
+  "Headless": false
+}
